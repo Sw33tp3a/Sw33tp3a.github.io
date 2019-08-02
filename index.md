@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hacking and Humanities!
 
 You can use the [editor on GitHub](https://github.com/Sw33tp3a/hackingandhumanities/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
