@@ -1,6 +1,8 @@
 # Welcome to Hacking and Humanities!
 
-You can use the [editor on GitHub](https://github.com/Sw33tp3a/hackingandhumanities/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Academia is in crisis, and the possibilities for fulfilling, stable, employment in the field are rapidly shrinking for those that are not on the tenure track. 
+
+I was a postdoc for 2 years, and then a Visiting Assistant Professor for another 2. Over this time, I became interested in the field of cybersecurity, initially because I was interested in protecting the data of my research subjects, and then over time became more and more interested in the topic for its own sake. This interest became a hobby, and then, when I realized I no longer wanted to uproot my life one more time to chase down a tenure-track position, began to seriously study in order to transition into the field. I now work in IT at a Fortune 500 company, in a city that I love and have wanted to live in for years.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
