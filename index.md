@@ -24,35 +24,57 @@ This offer is limited to non-tenure-track professors and graduate students in hu
 After emailing me, I will send you a detailed lesson plan for each section of the following curriculum.
 
 A. [Installing Kali Linux on VirtualBox: Quickest & Safest Way - Essential First Step](https://itsfoss.com/install-kali-linux-virtualbox/) 
+
 B. [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+
 C. [Over The Wire](http://overthewire.org/wargames/)
+
 D. [VulnHub](https://www.vulnhub.com/)
+
 E. [Hack The Box](https://www.hackthebox.eu/)
 
 ### Syllabus 
 
 I. Getting Started
+  
   1. Install Kali Linux on VirtualBox (Item A)
+  
   2. Learn the Command Line (Item B)
   
 II. Basic Security Concepts - After finishing each level in Over The Wire, send me a brief summary of what you did to finish it, and I will provide feedback.
+  
   1. Over The Wire (Item C)
+  
     a. Bandit
+    
     b. Natas
+    
     c. Leviathan
 
 III. Elementary Hacking - I will be sending you reading on hacking methodology at the beginning of this section, as well as a template for writing a penetration testing report. Together, we will work through each of these machines and on refining your reporting style, so that you are not merely mechanically applying tools, but understanding why you are doing what you are doing.
+  
   1. Vulnhub (Item D)
+    
     a. Kioptrix: Level 1 (#1)
+    
     b. Kioptrix: Level 1.1 (#2)
+    
     c. Kioptrix: Level 1.2 (#3)
+    
     d. Kioptrix: Level 1.3 (#4)
+    
     e. FristiLeaks: 1.3
+    
     f. Stapler: 1
+    
     g. PwnLab: init
+    
     h. Kioptrix: 2014
+    
     i. Brainpan: 1
+    
     j. Mr-Robot: 1
+    
     k. HackLAB: Vulnix
 
 IV. Hack The Box
