@@ -8,7 +8,7 @@ It has been a difficult journey, but ultimately rewarding, and in cybersecurity 
 
 ## The Program
 
-If you are a non-tenure-track professor or graduate student in the humanities, and frustrated by casualization and need a change, contact me at hackingandhumanities@gmail.com. Over the course of a year, I will mentor you in training for a new career in infosec/cybersecurity/ethical hacking, culminating in you taking either the OSCP course or the eCPPT certification course, which will qualify you for employment in the field.
+If you are a non-tenure-track professor or graduate student in the humanities, and frustrated by casualization and need a change, contact me at **jediande@hackingandhumanities.com**. Over the course of a year, I will mentor you in training for a new career in infosec/cybersecurity/ethical hacking, culminating in you taking either the OSCP course or the eCPPT certification course, which will qualify you for employment in the field.
 
 This mentorship will include:
 
