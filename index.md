@@ -80,8 +80,8 @@ III. Elementary Hacking - I will be sending you reading on hacking methodology a
 IV. Hack The Box
 
   We will be going through the following boxes:
-  ![HacktheboxOSCPPrepBoxes](https://sw33tp3a.github.io/hackthebox.png)
+  ![HacktheboxOSCPPrepBoxes](https://sw33tp3a.github.io/hackthebox.jpeg)
 
 ### I look forward to working with you!
 
-[Twitter](https://twitter.com/jediande)
+[Medium](https://medium.com/@hackingandhumanities)
